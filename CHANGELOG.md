@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.3](https://github.com/rixlhq/snowid-postgres/compare/v3.2.2...v3.2.3) (2026-09-15)
+
+
+### Bug Fixes
+
+* update dependencies (snowid v3.0.2) ([d62bdb1](https://github.com/rixlhq/snowid-postgres/commit/d62bdb1d0d0774bff7f506e7f0015cb9a20135e1))
+
 ## [3.2.2](https://github.com/rixlhq/snowid-postgres/compare/v3.2.1...v3.2.2) (2026-09-03)
 
 
