@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.2.4](https://github.com/rixlhq/snowid-postgres/compare/v3.2.3...v3.2.4) (2026-11-24)
+
+
+### Bug Fixes
+
+* **branding:** canonical company name, domain and address ([7394cc5](https://github.com/rixlhq/snowid-postgres/commit/7394cc5a02a9dbbc2b8f268b75407fab251dbd58))
+* **branding:** use canonical company name Rixl Inc., rixl.com and Wilmington DE address ([fc068dd](https://github.com/rixlhq/snowid-postgres/commit/fc068ddafb9bd8dd137e9093a0538408bda58889))
+
 ## [3.2.3](https://github.com/rixlhq/snowid-postgres/compare/v3.2.2...v3.2.3) (2026-09-15)
 
 
